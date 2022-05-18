@@ -1,1 +1,1 @@
-# S-n-f_Gecme_Hesaplama
+# Sinif_Gecme_Hesaplama
